@@ -5,9 +5,9 @@ Aufgabe 08
 Repository  - Sindl
 
 Programm 
-   - Grieshofer - GUI, Starter
-	 - Sindl - Util
-	 - Rasic - Objekte
+- Grieshofer - GUI, Starter
+- Sindl - Util
+- Rasic - Objekte
 
 ReadMe - Baum
 
